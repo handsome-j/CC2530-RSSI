@@ -1,0 +1,2 @@
+# CC2530-RSSI
+Get RSSI
